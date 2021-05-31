@@ -1,5 +1,5 @@
 # Quizzomania
-# Match_Prediction
+
 Our project is based on GUI concept which will attract the user who loves to learn and increase his knowledge by solving problem on daily basis..
 </br>
 </br>
@@ -12,8 +12,8 @@ Our project is based on GUI concept which will attract the user who loves to lea
 
 </br>
 </br>
-> ## About-- 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ***Quizzomania*** It is a game in which user will be given question and as per question  user as to select the correct answer. We are also providing some option as if user feel any difficulty then he/she can use that take help from them.
+## About-- </br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;***Quizzomania*** It is a game in which user will be given question and as per question  user as to select the correct answer. We are also providing some option as if user feel any difficulty then he/she can use that take help from them.
 </br>
 </br>
 > ## System Requirement -- :desktop_computer:
