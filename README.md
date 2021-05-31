@@ -5,10 +5,9 @@ Our project is based on GUI concept which will attract the user who loves to lea
 </br>
 ![logo1](https://user-images.githubusercontent.com/53908352/120226132-382e2b00-c264-11eb-97da-f346a7ab3702.png)
 
-
 ## Team Members: </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Satyam Prakash Srivastava</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Satya Singh </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Satyam Singh </br>
 
 </br>
 </br>
@@ -72,7 +71,7 @@ Our project is based on GUI concept which will attract the user who loves to lea
 # Drop a :star: if you like this Repository.. :smile: 
 	
  
-[![enjoy][enjoy-image]] &nbsp;&nbsp;&nbsp;&nbsp; [![status][issue-image]][issue-url]
+[![enjoy][enjoy-image]] &nbsp;&nbsp;&nbsp;&nbsp; 
 
 [enjoy-image]: https://img.shields.io/badge/Enjoy%20this%3F-Say%20Thanks!-yellow
 
