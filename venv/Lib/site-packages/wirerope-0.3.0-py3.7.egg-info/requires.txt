@@ -1,0 +1,13 @@
+six>=1.11.0
+
+[dev]
+pytest>=3.0.2
+pytest-cov
+sphinx
+
+[docs]
+sphinx
+
+[tests]
+pytest>=3.0.2
+pytest-cov

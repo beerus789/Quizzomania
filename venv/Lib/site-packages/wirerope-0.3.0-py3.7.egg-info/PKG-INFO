@@ -1,0 +1,49 @@
+Metadata-Version: 2.1
+Name: wirerope
+Version: 0.3.0
+Summary: Turn functions and methods into fully controllable objects
+Home-page: https://github.com/youknowone/wirerope
+Author: Jeong YunWon
+Author-email: wirerope@youknowone.org
+License: UNKNOWN
+Description: Wirerope
+        ========
+        
+        .. image:: https://travis-ci.com/youknowone/wirerope.svg?branch=master
+            :target: https://travis-ci.com/youknowone/wirerope
+        .. image:: https://codecov.io/gh/youknowone/wirerope/graph/badge.svg
+            :target: https://codecov.io/gh/youknowone/wirerope
+        
+        
+        Wirerope is a wrapper structure for python methods.
+        A wire is associated with a bound method.
+        A rope is associated with an unbound method.
+        
+        Users can inject any subclass of them into wires or ropes.
+        
+        
+        Documentation
+        -------------
+        
+        - Not written yet.
+        
+        
+        Example
+        -------
+        
+        See tests/test_wire.py
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Provides-Extra: tests
+Provides-Extra: dev
+Provides-Extra: docs

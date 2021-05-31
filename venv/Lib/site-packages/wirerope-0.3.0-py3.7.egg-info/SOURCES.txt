@@ -1,0 +1,15 @@
+README.rst
+setup.cfg
+setup.py
+wirerope/__init__.py
+wirerope/__version__.py
+wirerope/_compat.py
+wirerope/_util.py
+wirerope/callable.py
+wirerope/rope.py
+wirerope/wire.py
+wirerope.egg-info/PKG-INFO
+wirerope.egg-info/SOURCES.txt
+wirerope.egg-info/dependency_links.txt
+wirerope.egg-info/requires.txt
+wirerope.egg-info/top_level.txt
